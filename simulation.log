@@ -1,0 +1,6 @@
+[2024-11-03 10:21:34] Error: E1201 Invalid syntax detected
+[2024-11-03 10:22:12] Warning: W3335 Deprecated function used
+[2024-11-03 10:23:47] Info: Simulation completed successfully
+[2024-11-03 10:24:34] Error: E1201 Memory overflow
+[2024-11-03 10:25:15] Warning: W3335 Uninitialized variable
+
